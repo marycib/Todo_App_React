@@ -1,0 +1,30 @@
+.TodoSearch {
+    background: #f9fbfc;
+    border-radius: 6px;
+    border: none;
+    outline: 3px dashed white;
+    margin: 0 24px;
+    height: 64px;
+    width: calc(100% - 62px);
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    color: #1e1e1f;
+    border-radius: 7px;
+    background: linear-gradient(145deg, #d4dadc, #fbffff);
+    box-shadow: 21px 21px 42px #c1c6c8,
+        -21px -21px 42px #ffffff;
+}
+
+.TodoSearch::placeholder {
+    color: #a5a5a5;
+    font-family: montserrat;
+    font-weight: 400;
+
+}
+
+.TodoSearch:focus {
+    outline-color: #35d3ff41;
+
+}

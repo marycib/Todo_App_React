@@ -1,0 +1,22 @@
+.ModalWind {
+    border: 30px solid rgba(0, 0, 0, 0.616);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.527);
+    position: fixed;
+    max-width: 600px;
+    margin: auto;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 60px;
+    border-radius: 30px;
+    box-shadow: 2px -2px 2px 0 rgb(108, 115, 129, 0.8),
+        -30px 30px 12px 10px rgb(0, 0, 0, 0.5),
+        inset -2px 2px 2px 0 rgb(108, 115, 129, 0.2),
+        inset 2px -2px 2px 0px rgb(0, 0, 0, 0.3);
+
+}

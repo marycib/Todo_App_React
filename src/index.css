@@ -1,0 +1,27 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Tilt+Prism&display=swap');
+/*font-family: 'Indie Flower', cursive;
+font-family: 'Tilt Prism', cursive; */
+body {
+  height: 100vh;
+  margin: 0;
+  font-family:  'Tilt Prism', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://acortar.link/wBfkVH);
+  flex-direction: row;
+
+}
