@@ -11,12 +11,12 @@
 ----------------------------------------------------------------------------------------
 Deployment link https://marycib.github.io/Todo_App_React/
 
-created with glassmorphism for a more pleasant user experience, contains, task list, task search list, you can delete and cross out completed tasks.
---------------------------------------------------------------------------------------------------
+Created with glassmorphism for a more pleasant user experience, contains, task list, task search list, you can delete and cross out completed tasks.
 
+------------------------------------------------------------------
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
-
+--------------------------------------------------------
 Available Scripts
 In the project directory, you can run:
 
