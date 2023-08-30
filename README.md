@@ -1,5 +1,8 @@
 # Todo_App_React
-Creating App with react
+
+# Creating App with react
+
+
 ![Screenshot](https://github.com/marycib/Todo_App_React/assets/61070408/8c5fcd9c-97a9-400b-b896-cf1444ecaf07)
 ![Screenshot (1)](https://github.com/marycib/Todo_App_React/assets/61070408/f597a721-7737-4cf4-9de2-e06e9be347ef)
 
