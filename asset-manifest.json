@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marycib.github.io/Todo_App_React/static/css/main.d64ae8e2.css",
+    "main.js": "/marycib.github.io/Todo_App_React/static/js/main.584c56f6.js",
+    "index.html": "/marycib.github.io/Todo_App_React/index.html",
+    "main.d64ae8e2.css.map": "/marycib.github.io/Todo_App_React/static/css/main.d64ae8e2.css.map",
+    "main.584c56f6.js.map": "/marycib.github.io/Todo_App_React/static/js/main.584c56f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d64ae8e2.css",
+    "static/js/main.584c56f6.js"
+  ]
+}
