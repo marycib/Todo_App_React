@@ -15,6 +15,7 @@ Created with glassmorphism for a more pleasant user experience, contains, task l
 
 ------------------------------------------------------------------
 Getting Started with Create React App
+
 This project was bootstrapped with Create React App.
 --------------------------------------------------------
 Available Scripts
