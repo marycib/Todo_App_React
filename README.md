@@ -8,10 +8,11 @@
 
 # Todolist application built with react
 
-
-deployment link https://marycib.github.io/Todo_App_React/
+----------------------------------------------------------------------------------------
+Deployment link https://marycib.github.io/Todo_App_React/
 
 created with glassmorphism for a more pleasant user experience, contains, task list, task search list, you can delete and cross out completed tasks.
+--------------------------------------------------------------------------------------------------
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
